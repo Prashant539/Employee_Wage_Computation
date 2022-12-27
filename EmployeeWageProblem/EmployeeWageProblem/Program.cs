@@ -9,7 +9,8 @@ namespace EmployeeWageProblem
 
             CheckEmployee checkEmployee = new CheckEmployee();
             //checkEmployee.CheckAttendence();
-            checkEmployee.CheckEmpWage();
+            //checkEmployee.CheckEmpWage();
+            checkEmployee.CheckPartTime();
         }
     }
 }
