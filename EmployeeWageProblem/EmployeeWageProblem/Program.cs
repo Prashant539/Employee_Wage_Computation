@@ -8,7 +8,8 @@ namespace EmployeeWageProblem
             Console.WriteLine("Welcome to Employee Computation Problem");
 
             CheckEmployee checkEmployee = new CheckEmployee();
-            checkEmployee.CheckAttendence();
+            //checkEmployee.CheckAttendence();
+            checkEmployee.CheckEmpWage();
         }
     }
 }
